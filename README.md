@@ -9,7 +9,7 @@ Jose Rodriguez Guzman
 ## Informacion adicional
 
 * Universidad Oberta de Catalunya [Universitat Oberta of Catalunya.](http://www.uoc.edu/portal/ca/index.html)
-* Master de Data Science
+* Master en Data Science
 * Asignatura: Tipologia y ciclo de vida de los datos.
 * Consultora: Mireia Calvo Gonzalez
 
